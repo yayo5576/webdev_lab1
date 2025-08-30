@@ -6,8 +6,8 @@
 </head>
 <body>
 <p>&amp; Hello world. This is my first website!</p>
-<p>Instructions: rewrite this page by adding a few sentences about yourself. Follow the
-instructions in README.md to turn it in.</p>
-My Name is Anita. This is a demo.
+<p>Hello, my name is Yael Martinez</p>
+<p>I came from John Hancock Highschool and currently attend Illinois Institute of Technology.</p>
+<p>I'm seeking a Applied Cybersecurity and IT Bachelor's Degree.</p>
 </body>
 </html>
