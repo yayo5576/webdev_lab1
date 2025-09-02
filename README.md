@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<title>Internet Technologies and Web Design</title>
+<s>Internet Technologies and Web Design</s>
 </head>
 <body>
 <p>&amp; Hello world. This is my first website!</p>
