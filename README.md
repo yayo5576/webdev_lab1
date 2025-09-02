@@ -2,10 +2,10 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<s>Internet Technologies and Web Design</s>
+<h1>Internet Technologies and Web Design</h1>
 </head>
 <body>
-<p>&amp; Hello world. This is my first website!</p>
+<p>Hello world. This is my first website!</p>
 <p>Hello, my name is Yael Martinez.</p>
 <p>I came from John Hancock Highschool and currently attend Illinois Institute of Technology.</p>
 <p>I'm going for a Bachelor's Degree in Applied Cybersecurity & IT.</p>
