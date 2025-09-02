@@ -6,8 +6,8 @@
 </head>
 <body>
 <p>&amp; Hello world. This is my first website!</p>
-<p>Hello, my name is Yael Martinez</p>
+<p>Hello, my name is Yael Martinez.</p>
 <p>I came from John Hancock Highschool and currently attend Illinois Institute of Technology.</p>
-<p>I'm seeking a Applied Cybersecurity and IT Bachelor's Degree.</p>
+<p>I'm going for a Bachelor's Degree in Applied Cybersecurity & IT.</p>
 </body>
 </html>
